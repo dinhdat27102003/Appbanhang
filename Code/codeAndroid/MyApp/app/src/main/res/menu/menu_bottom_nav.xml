@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_mall"
+        android:title="Mua Sắm"
+        android:icon="@drawable/ic_mall"/>
+    <item android:id="@+id/action_awesome"
+        android:title="Mới"
+        android:icon="@drawable/ic_awesome"/>
+    <item android:id="@+id/action_more"
+        android:title="Khác"
+        android:icon="@drawable/ic_more_horiz"/>
+    <item android:id="@+id/action_phone"
+        android:title="Thông Tin"
+        android:icon="@drawable/ic_phone"/>
+</menu>
